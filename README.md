@@ -43,4 +43,4 @@
 2 10
 ....
 ```
-未完待續，詳細sample I/O請參考附件final.path
+詳細sample output請參考附件final.path
