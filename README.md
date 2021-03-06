@@ -41,5 +41,6 @@
 3 11
 2 11
 2 10
-....未完待續，詳細sample I/O請參考附件final.path
+....
 ```
+未完待續，詳細sample I/O請參考附件final.path
